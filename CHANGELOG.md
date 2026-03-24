@@ -1,5 +1,11 @@
 # @martian-engineering/lossless-claw
 
+## 0.5.2
+
+### Patch Changes
+
+- [#128](https://github.com/Martian-Engineering/lossless-claw/pull/128) [`0f1a5d8`](https://github.com/Martian-Engineering/lossless-claw/commit/0f1a5d89a95225baee39e017449e5956e7990b27) Thanks [@TSHOGX](https://github.com/TSHOGX)! - Honor custom API base URL overrides for `lcm-tui rewrite`, `lcm-tui backfill`, and interactive rewrite so TUI summarization can use configured provider proxies and non-default endpoints.
+
 ## 0.5.1
 
 ### Patch Changes
